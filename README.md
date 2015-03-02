@@ -1,0 +1,1 @@
+docker run -d -e APP_NAME=app_name -v /tmp/test:/tmp/build alars/go-builder
